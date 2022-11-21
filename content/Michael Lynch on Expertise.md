@@ -1,5 +1,5 @@
 ---
-title: "Example Title"
+title: "Michael Lynch on Expertise"
 tags:
 - Lynch
 - Expertise

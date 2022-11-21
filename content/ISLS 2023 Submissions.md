@@ -1,5 +1,5 @@
 ---
-title: "Example Title"
+title: "ISLS 2023 Submissions"
 tags:
 - ISLS2023
 ---
