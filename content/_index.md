@@ -3,10 +3,6 @@ title: "Bradley Davey"
 enableToc: false
 ---
 
-😘🖼️⁉️✍️
-
-Test
-
-[[Test Note]]
-
-
+# Recent Thoughts
+- [[ISLS 2023 Submissions]]
+- [[Michael Lynch on Expertise]]
