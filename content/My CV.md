@@ -2,6 +2,7 @@
 title: "My CV"
 tags:
 - aboutme
+enableToc: false
 ---
 
 # Research Interests

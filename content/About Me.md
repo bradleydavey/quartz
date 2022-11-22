@@ -2,6 +2,7 @@
 title: "About Me"
 tags:
 - aboutme
+enableToc: false
 ---
 
 Hey - I'm Bradley. I was expelled from high school when I was 15 years and court-ordered to obtain my GED at 16. I've since been on a journey of learning about learning. When you lack a formal education you must learn new ideas in new ways and from and with new people. This has been both a challenge and a blessing in my life. This website is my attempt to make sense of my experiences and dialog with folks on their own learning journeys. 

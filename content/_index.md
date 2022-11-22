@@ -9,4 +9,7 @@ enableToc: false
 
 # Some things about me
 - [[My CV]]
+- [[About Me]]
+
+#  Some longer thoughts
 - 
