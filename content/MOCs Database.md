@@ -1,5 +1,5 @@
 ---
-title: "What's a MOC?"
+title: "What's an MOC?"
 tags:
 - MOC
 ---
