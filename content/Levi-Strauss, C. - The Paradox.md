@@ -7,8 +7,6 @@ tags:
 - whocountswhat
 ---
 
-Rest of your content here...
-
 > There is only one solution to the paradox, namely, that there are two distinct modes of scientific thought. These are certainly not a function of different stages of development of the human mind but rather of two strategic levels at which nature is accessible to scientific enquiry: one roughly adapted to that of perception and the imagination: the other at a remove from it. It is as if the necessary connections which are the object of all science, neolithic or modern, could be arrived at by two different routes, one very close to, and the other more remote from, sensible intuition.
 > 
 > -- Claude Lévi-Strauss, 1962, The Science of the Concrete, p. 9
@@ -31,3 +29,5 @@ One way it plays out is that civilizations experience a 'long pause' in scientif
 
 
 A related work is [[Conner, C. - 2005 - A People's History of Science Chapter MOC]]
+And [[Michael Lynch on Expertise]] also discusses who gets to count what and how
+
