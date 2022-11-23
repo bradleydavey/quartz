@@ -1,5 +1,5 @@
 ---
-title: "Lévi-Strauss, C. - The Paradox"
+title: "Lévi-Strauss, C. - 1962 - The Paradox"
 tags:
 - philosophyofscience
 - everydayscience
@@ -13,9 +13,11 @@ Rest of your content here...
 > 
 > -- Claude Lévi-Strauss, 1962, The Science of the Concrete, p. 9
 
-The paradox is how modern science came to be. A question can get this going: Prior to the existence (the human construction) of the modern scientific laboratory, did science exist? Given the tens of thousands of years of ‘practical’ (as polite code for ‘subjective’ and ‘not rigorous’) knowledge produced prior to modern laboratory science, how did science come to be? This isn't a historical question to be answered by looking at how human formed institutions and how those institutions formed science. Some folks do that well, though: 
+The paradox is how modern science came to be. A question can get this going: Prior to the existence (the human construction) of the modern scientific laboratory, did science exist? Given the tens of thousands of years of ‘practical’ (as polite code for ‘subjective’ and ‘not rigorous’) knowledge produced prior to modern laboratory science, how did science come to be? This isn't a historical question to be answered by looking at how humans formed institutions and how those institutions formed science. Some folks do that well, though: 
 - [[Secord]]
 - [[Conner, C. - 2005 - A People's History of Science Chapter MOC]]
+
+Rather, this is a question of human's interact with nature in the absence of institutional forces. 
 
 This plays into the ‘fairy tale’ story of modern science [[Woolgar, S. - 1988 - Science, the very idea MOC]], as if science somehow birthed, and now certifies [[Rouse, J. - 1996 - Beyond Epistemic Sovereignty]], itself. The paradox is how science could possibly come from non-science. *The*, not a, solution must be that nature has always been accessible by two means: that of disembodied cognitive processes removed from nature, and that of embodied, situated processes that get up close and personal with nature. Modern images of science would have us believe that the former is all is possible and that the latter is non-science. Ethnographic studies of science reveal, however, ‘the soft underbelly’ of scientific knowledge production, unraveling clean Cartesian divides between the mind and body, and unifying body and mind as one to advance science. 
 
