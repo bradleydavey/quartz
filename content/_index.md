@@ -7,6 +7,7 @@ enableToc: false
 - [[ISLS 2023 Submissions]]
 - [[Michael Lynch on Expertise]]
 - [[Levi-Strauss, C. - The Paradox]]
+- [[Test LSC]]
 
 # Some things about me
 - [[My CV]]
