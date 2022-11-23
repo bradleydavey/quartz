@@ -12,4 +12,5 @@ enableToc: false
 - [[About Me]]
 
 #  Some longer thoughts
-- 
+- [[On Becoming a Learning Scientist]]
+- [[On Being a Doctoral Student]]
