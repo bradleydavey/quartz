@@ -6,6 +6,9 @@ tags:
 - whatisscience
 ---
 
+==Citation==
+Fores, M. (1983). Science and the ‘Neolithic Paradox.’ _History of Science_, _21_(2), 141–163. [https://doi.org/10.1177/007327538302100202](https://doi.org/10.1177/007327538302100202)
+
 Michael Fores wrote in such a way that his texts would only be cheaped by added commentary:
 
 > “...very little human endeavour, and perhaps none at all in the scientific and technical areas discussed in this paper, is well described as 'revolutionary' due to our activity as tinkerers, which flows itself from the distinctive human mastery of tools and machines. If man is put 'to the question' along with 'science', it can be seen how: first, human rationality at work is impossible; second, the notion ofa discernible and distinctive 'scientific method' is as mythic as that of a 'cooking method', or an 'engineering method', or a 'method of management'.” 
@@ -28,6 +31,7 @@ Michael Fores wrote in such a way that his texts would only be cheaped by added 
 
 # Related
 - [[Conner, C. - 2005 - A People's History of Science Chapter MOC]]
+- [[Latour - 1993 - We have never been modern]]
 - [[Levi-Strauss - 1966 - Science of the Concrete]]
 - [[Michael Lynch on Expertise]]
 - [[Woolgar, S. - 1988 - Science, the very idea MOC]]
