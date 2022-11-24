@@ -10,7 +10,8 @@ enableToc: false
 - [[My CV]]
 - [[About Me]]
 
-#  Some longer thoughts
+<h2> Some longer thoughts </h2>
+
 - [[On Becoming a Learning Scientist]]
 - [[On Being a Doctoral Student]]
 
