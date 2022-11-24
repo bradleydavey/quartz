@@ -3,7 +3,10 @@ title: "Bradley Davey"
 enableToc: false
 ---
 
-<h1> Some things about me</h1>
+
+
+<h2> Some things about me</h2>
+
 - [[My CV]]
 - [[About Me]]
 
