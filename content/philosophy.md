@@ -5,4 +5,3 @@ tags:
 - inprogress
 ---
 
-Rest of your content here...

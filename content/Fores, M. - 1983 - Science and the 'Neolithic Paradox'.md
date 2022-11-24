@@ -29,7 +29,7 @@ Michael Fores wrote in such a way that his texts would only be cheaped by added 
 
 
 # Related
-- [[Conner, C. - 2005 - A People's History of Science Chapter MOC]]
+- [[Conner, C. - 2005 - A People's History of Science MOC]]
 - [[Latour - 1993 - We have never been modern]]
 - [[Levi-Strauss - 1966 - Science of the Concrete]]
 - [[Michael Lynch on Expertise]]

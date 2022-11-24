@@ -5,6 +5,7 @@ tags:
 - everydayscience
 - inprogress
 - whocountswhat
+enableToc: false
 ---
 
 > There is only one solution to the paradox, namely, that there are two distinct modes of scientific thought. These are certainly not a function of different stages of development of the human mind but rather of two strategic levels at which nature is accessible to scientific enquiry: one roughly adapted to that of perception and the imagination: the other at a remove from it. It is as if the necessary connections which are the object of all science, neolithic or modern, could be arrived at by two different routes, one very close to, and the other more remote from, sensible intuition.
@@ -13,7 +14,7 @@ tags:
 
 The paradox is how modern science came to be. A question can get this going: Prior to the existence (the human construction) of the modern scientific laboratory, did science exist? Given the tens of thousands of years of ‘practical’ (as polite code for ‘subjective’ and ‘not rigorous’) knowledge produced prior to modern laboratory science, how did science come to be? This isn't a historical question to be answered by looking at how humans formed institutions and how those institutions formed science. Some folks do that well, though: 
 - [[Secord]]
-- [[Conner, C. - 2005 - A People's History of Science Chapter MOC]]
+- [[Conner, C. - 2005 - A People's History of Science MOC]]
 
 Rather, this is a question of human's interact with nature in the absence of institutional forces. 
 
@@ -28,6 +29,6 @@ One way it plays out is that civilizations experience a 'long pause' in scientif
 > -- Claude Lévi-Strauss, 1962, The Science of the Concrete, p. 10-11
 
 
-A related work is [[Conner, C. - 2005 - A People's History of Science Chapter MOC]]
+A related work is [[Conner, C. - 2005 - A People's History of Science MOC]]
 And [[Michael Lynch on Expertise]] also discusses who gets to count what and how
 
