@@ -4,6 +4,7 @@ tags:
 - whocountswhat
 - philosophyofscience
 - whatisscience
+- fire
 ---
 
 Fores, M. (1983). Science and the ‘Neolithic Paradox.’ _History of Science_, _21_(2), 141–163. [https://doi.org/10.1177/007327538302100202](https://doi.org/10.1177/007327538302100202)
