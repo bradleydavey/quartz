@@ -4,6 +4,7 @@ enableToc: false
 ---
 
 # Recent Thoughts
+- [[Fores, M. - 1983 - Science and the 'Neolithic Paradox']]
 - [[ISLS 2023 Submissions]]
 - [[Michael Lynch on Expertise]]
 - [[Levi-Strauss - 1966 - Science of the Concrete]]
