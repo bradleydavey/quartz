@@ -14,5 +14,3 @@ enableToc: false
 
 - [[On Becoming a Learning Scientist]]
 - [[On Being a Doctoral Student]]
-
-
