@@ -1,5 +1,5 @@
 ---
-title: "Lynch on Schutz on world of thought and life and death"
+title: "Lynch on Schutz: the world of thought and life and death"
 tags:
 - whatisscience
 enableToc: false
