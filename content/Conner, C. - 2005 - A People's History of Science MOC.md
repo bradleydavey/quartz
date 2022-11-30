@@ -11,9 +11,6 @@ enableToc: false
 ## Main Ideas
 
 
-
-
-
 ## Summary
 
 
