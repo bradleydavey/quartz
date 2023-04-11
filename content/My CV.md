@@ -1,5 +1,6 @@
 ---
 title: "My CV"
+draft: true
 tags:
 - aboutme
 enableToc: false

@@ -1,5 +1,6 @@
 ---
 title: "On Being a Doctoral Student"
+draft: true
 tags:
 - inprogress
 - about

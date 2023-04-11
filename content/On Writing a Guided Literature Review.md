@@ -1,5 +1,6 @@
 ---
 title: "On Writing a Guided Literature Review"
+draft: true
 tags:
 - onwriting
 - literaturereview

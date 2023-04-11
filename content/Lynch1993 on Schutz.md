@@ -1,5 +1,6 @@
 ---
 title: "Lynch on Schutz: the world of thought and life and death"
+draft: true
 tags:
 - whatisscience
 enableToc: false

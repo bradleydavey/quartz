@@ -4,13 +4,5 @@ enableToc: false
 ---
 
 
-
-<h2> Some things about me</h2>
-
-- [[My CV]]
+- Current contact info: bdavey@u.northwestern.edu
 - [[About Me]]
-
-<h2> Some longer thoughts </h2>
-
-- [[On Becoming a Learning Scientist]]
-- [[On Being a Doctoral Student]]

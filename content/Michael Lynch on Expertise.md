@@ -1,5 +1,6 @@
 ---
 title: "Michael Lynch on Expertise"
+draft: true
 tags:
 - Lynch
 - Expertise

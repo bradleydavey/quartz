@@ -1,5 +1,6 @@
 ---
 title: "Fores - 1983 - Science and the ‘Neolithic Paradox’"
+draft: true
 tags:
 - whocountswhat
 - philosophyofscience

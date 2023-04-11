@@ -1,5 +1,6 @@
 ---
 title: "Lévi-Strauss, C. - 1962 - The Paradox"
+draft: true
 tags:
 - philosophyofscience
 - everydayscience
