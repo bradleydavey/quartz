@@ -1,6 +1,6 @@
 
 ---
-title: "ICLS 2023 Paper: Expanding What Counts as Investigations"
+title: "ICLS 2023 Paper - Expanding What Counts as Investigations"
 tags:
 - ourpapers
 ---
