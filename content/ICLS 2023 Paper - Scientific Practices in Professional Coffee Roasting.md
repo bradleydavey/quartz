@@ -2,7 +2,9 @@
 
 ---
 title: ICLS 2023 Scientific Practices in Professional Coffee Roasting
-tags: ourpapers, icls2023
+tags:
+- ourpapers
+- icls2023
 ---
 
 Davey, B., & Stevens, R. (2023). Scientific Practices in Professional Coffee Roasting. _17th International Conference of the Learning Sciences (ICLS)_. International Society for the Learning Sciences, Montreal, Canada.
