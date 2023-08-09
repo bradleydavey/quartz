@@ -14,8 +14,7 @@ Davey, B., & Stevens, R. (2023). Expanding What Counts as Scientific Investigati
     <title>Expanding What Counts as Scientific Investigations in the Era of the Next Generation Science Standards. </title>
   </head>
   <body>
-    <h1>Expanding What Counts as Scientific Investigations in the Era of the Next Generation Science Standards.</h1>
-    <p>Open a PDF file <a href="https://github.com/bradleydavey/quartz/blob/hugo/content/DaveyStevens2023.pdf">example</a>.</p>
+    <p><a href="https://github.com/bradleydavey/quartz/blob/hugo/content/DaveyStevens2023.pdf">Open the .pdf here</a>.</p>
   </body>
 </html>
 
