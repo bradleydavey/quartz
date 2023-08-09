@@ -33,6 +33,18 @@ Davey, B., & Stevens, R. (2023). Expanding What Counts as Scientific Investigati
 
 
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="https://github.com/bradleydavey/quartz/blob/hugo/content/DaveyStevens2023.pdf">example</a>.</p>
+  </body>
+</html>
+
+
 
 Download here: https://drive.google.com/file/d/1eoS2Mr_ajVJSybIofQpJsqzARvgPfuSr/view?usp=drive_link
 
